@@ -7,8 +7,16 @@
 
 Once all the ingredients are selected, Silly Food presents the recipe in a code block format, giving it the feel of a genuine recipe layout despite its hilarious inedibility. The experience is rounded off with an AI-generated image inspired by the recipe, providing users with a visual to match the whimsical absurdity of their concoction. This GPT embraces the joy of culinary disasters, letting users assemble outrageous combinations that turn cooking into comedy.
 
+```
+Let's create a silly recipe!
+Example silly recipes.
+Create a random recipe and image.
+List all ingredient products.
+```
 #
 ![Silly Food](https://github.com/user-attachments/assets/a2102d8b-35de-4d1b-aca1-6cd023b3e3b6)
+#
+> Alex: "*I can finally create the a Watter Bottle Salad Picnic Platter.*"
 
 #
 ### Related Links
