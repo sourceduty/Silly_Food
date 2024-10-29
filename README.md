@@ -8,7 +8,7 @@
 Once all the ingredients are selected, Silly Food presents the recipe in a code block format, giving it the feel of a genuine recipe layout despite its hilarious inedibility. The experience is rounded off with an AI-generated image inspired by the recipe, providing users with a visual to match the whimsical absurdity of their concoction. This GPT embraces the joy of culinary disasters, letting users assemble outrageous combinations that turn cooking into comedy.
 
 #
-### RElated Links
+### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
